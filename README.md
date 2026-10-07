@@ -1,2 +1,2 @@
-# Image-Detection
-This program detect Image using openCV.
+# Object Detection
+This program detects objects using OpenCV and YOLO. Record Real-time object detection using a webcam.
